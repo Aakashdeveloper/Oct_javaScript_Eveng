@@ -7,10 +7,11 @@ Ecma 7
 > Operations
 > String
 > Math
+> String literals
+/////////////////
 > localstorage
 > sessionStorage
 > cookies
-> String literals
 > github
 > condition
 > if else
