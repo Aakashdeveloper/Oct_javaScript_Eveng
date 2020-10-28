@@ -58,3 +58,8 @@ var email = "@a.com";
 undefined
 email.match("^([a-zA-Z0-9]+)@([a-zA-Z0-9]+)\.([a-zA-Z]{2,5})$")
 null
+
+\w 
+\w+
+\d
+\d+
