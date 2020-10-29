@@ -1,0 +1,27 @@
+var movies = [
+    {
+        "name":"Death Race",
+        "rating":3,
+        "lang":"Eng"
+    },
+    {
+        "name":"Avenger",
+        "rating":3.5,
+        "lang":"Eng"
+    },
+    {
+        "name":"Jab We Met",
+        "rating":3.8,
+        "lang":"Hindi"
+    },
+    {
+        "name":"ZNMD",
+        "rating":3.9,
+        "lang":"Hindi"
+    }
+]
+
+typeof(movies)
+"object"
+movies[1].name
+"Avenger"
