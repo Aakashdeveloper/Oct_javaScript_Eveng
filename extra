@@ -26,17 +26,18 @@ Ecma 7
 > let, const
 > Clousers
 > Hoisting
-/////////////////
 > JSON
+> Es6
+    > Transpile
+    > import export
+> package.JSON
+> npm
+/////////////////
 > object 
 > this 
 > Prototypes
 > Es6
     > classes
-    > Transpile
-    > import export
-> package.JSON
-> npm
 > DoM
 > Calc
 > Geolocation
@@ -66,3 +67,23 @@ https://github.com/Aakashdeveloper/Oct_javaScript_Eveng
 ////////
 
 https://nodejs.org/en/
+
+/////
+package.JSON
+> description
+> meta data
+> node modules
+> Script
+
+///////
+Step to create package.JSON
+//////////
+** Node JS must be install in system
+> go inside the folder using cmd /terminal
+> npm init -y
+
+///////
+Step to install packages
+//////////
+> go inside the folder using cmd /terminal
+> npm i @babel/core @babel/preset-env @babel/register
