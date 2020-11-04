@@ -5,7 +5,7 @@ p{
 #ppout{
     height:10px;
     width:100%;
-    background:red
+    visibility: hidden;
 }
 
 span{

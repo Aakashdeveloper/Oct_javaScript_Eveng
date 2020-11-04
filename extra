@@ -40,15 +40,16 @@ Ecma 7
 > DoM
 > Calc
 > Geolocation
-/////////////////
 > Form validation
 > Event
 > currenyConvertor
 > promis
+/////////////////
 > async await
 > Progress bar
 > screen
 > Dynamic DropDown
+
 > fabonicci
 > factorial
 > Call/Apply
@@ -87,3 +88,8 @@ Step to install packages
 //////////
 > go inside the folder using cmd /terminal
 > npm i @babel/core @babel/preset-env @babel/register
+
+
+
+npm i
+npm start
